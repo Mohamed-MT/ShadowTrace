@@ -1,0 +1,4 @@
+# ShadowTrace runtime dependencies (floors verified by running the test suite with exactly these versions)
+psutil>=5.9.8,<8
+typer>=0.15.4,<1
+rich>=13.0,<16

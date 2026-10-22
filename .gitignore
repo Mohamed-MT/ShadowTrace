@@ -1,0 +1,33 @@
+# ShadowTrace output: scan reports contain local paths, command lines and user/computer names. Never commit them.
+reports/
+*.report.json
+ci-reports/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Virtual environments and local configuration
+.venv/
+venv/
+env/
+.env
+.env.*
+
+# Editors and operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local hash lists / threat-intel files you may keep next to the tool
+*.hashlist
+local-hashes*.txt
