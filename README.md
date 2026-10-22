@@ -2,7 +2,7 @@
 
 **A free Windows tool that checks your computer for signs of spyware, keyloggers and other unwanted software, then gives you a plain-English report. It only looks. It never changes, deletes or uploads anything.**
 
-> **Project status:** finished and not maintained. This is a personal portfolio project, so there is no support and no updates are planned.
+> **Project status:** finished and not maintained. This is a personal portfolio project, so there is no support and no updates are planned (for now at least).
 
 ## What it is
 
