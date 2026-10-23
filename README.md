@@ -147,6 +147,7 @@ It can't see threats that hide deep inside Windows or in hardware, and it can't 
 shadowtrace.py     the whole tool
 requirements.txt   the three libraries it needs
 README.md          this guide
+TECHNICAL.md        detailed detection and report reference
 .gitignore         keeps scan reports out of version control
 ```
 
