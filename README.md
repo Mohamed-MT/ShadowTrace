@@ -1,3 +1,16 @@
+<table>
+  <tr>
+    <td width="260">
+      <img width="250" alt="ShadowTrace" src="https://github.com/user-attachments/assets/c2c39590-b6d3-4c44-ad71-a25fb037d4c2" />
+    </td>
+    <td>
+      <h1>ShadowTrace</h1>
+      <p><strong>Detect. Investigate. Stay Safe.</strong></p>
+      <p>A Windows tool that checks your computer for signs of spyware, keyloggers and other unwanted software.</p>
+    </td>
+  </tr>
+</table>
+
 # ShadowTrace
 
 **A free Windows tool that checks your computer for signs of spyware, keyloggers and other unwanted software, then gives you a plain-English report. It only looks. It never changes, deletes or uploads anything.**
